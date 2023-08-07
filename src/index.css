@@ -1,0 +1,4 @@
+/* Lo siguiente es código necesario para que Tailwind funcione */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
